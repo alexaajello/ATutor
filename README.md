@@ -3,10 +3,10 @@
 
 ## About 
 
-ATutor is a learning management system to continue professional development for teachers, career developers, and academic research. It is written in PHP in a cross platform operating system.
+ATutor is a learning management system to continue professional development for teachers, career developers, and academic research by providing tools to facilitate the development of online learning courses. The most notable features of its functionality include the creation of student profiles, networking between users, and shareable file storage that provides version control and shareability options. ATutor is written in PHP in a cross platform operating system.
 
 ## Features
-Two accessibility features in the system are text alternatives for all visual elements and keyboard access to all elements of the program. With these features, a blind person can listen to the entire interface of the system with the help of a screen reader, and he or she can access the system without needing a mouse. These features also allow ATutor to adapt to a wide variety of technologies including cell phones, personal data assistants (PDAs), and text-based Web browsers, to name a few. ATutor is also designed for adaptability to any of several teaching and learning scenarios. There are four main areas that reflect this design principle: themes, privileges, tool modules, and groups
+Two accessibility features in the system are text alternatives for all visual elements and keyboard access to all elements of the program. With these features, a blind person can listen to the entire interface of the system with the help of a screen reader, and they can access the system without needing a mouse. These features also allow ATutor to adapt to a wide variety of technologies including cell phones, personal data assistants (PDAs), and text-based Web browsers, to name a few. ATutor is also designed for adaptability to any of several teaching and learning scenarios. There are four main areas that reflect this design principle: themes, privileges, tool modules, and groups
 
 ## Installation
 
